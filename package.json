@@ -1,0 +1,16 @@
+{
+  "name": "aprendizado-cicd",
+  "version": "1.0.0",
+  "description": "📘 Este repositório contém um exercício prático da disciplina de CI/CD (Integração Contínua e Entrega Contínua).",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
